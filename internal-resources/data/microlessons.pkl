@@ -2,10 +2,9 @@ import "https://pages.git.generalassemb.ly/modular-curriculum-all-courses/univer
 
 // Add microlessons here, in the order they should be delivered
 
-softwareDefinedNetworking = new Template.Microlesson {
-  friendlyName = "Software Defined Networking"
-  dirName = "software-defined-networking"
+howDoesSdnMakeLifeEasier = new Template.Microlesson {
+  friendlyName = "How Does SDN Make Life Easier?"
+  dirName = "how-does-sdn-make-life-easier"
   type = "Content"
   videoUrl = ""
 }
-

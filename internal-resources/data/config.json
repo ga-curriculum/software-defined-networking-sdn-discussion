@@ -4,8 +4,8 @@
     "name": "modular-curriculum-all-courses"
   },
   "repo": {
-    "friendlyName": "Software Defined Networking",
-    "name": "software-defined-networking",
+    "friendlyName": "Software-Defined Networking (SDN) Discussion",
+    "name": "software-defined-networking-sdn-discussion",
     "type": "Lesson",
     "about": "",
     "starterCode": "",
@@ -14,14 +14,14 @@
   },
   "courses": [
     {
-      "name": "fallback",
+      "name": "itb",
       "courseAcronym": "",
       "courseFullName": "",
       "logoUrl": "",
       "microlessons": [
         {
-          "friendlyName": "Software Defined Networking",
-          "dirName": "software-defined-networking",
+          "friendlyName": "How Does SDN Make Life Easier?",
+          "dirName": "how-does-sdn-make-life-easier",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -53,14 +53,14 @@
       "isActivityTimeShown": true
     },
     {
-      "name": "ITB",
+      "name": "fallback",
       "courseAcronym": "",
       "courseFullName": "",
       "logoUrl": "",
       "microlessons": [
         {
-          "friendlyName": "Software Defined Networking",
-          "dirName": "software-defined-networking",
+          "friendlyName": "How Does SDN Make Life Easier?",
+          "dirName": "how-does-sdn-make-life-easier",
           "type": "Content",
           "skill": "",
           "learningObjective": "",

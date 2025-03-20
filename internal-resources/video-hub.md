@@ -1,5 +1,5 @@
 <h1>
-  <span class="headline">Software Defined Networking</span>
+  <span class="headline">Software-Defined Networking (SDN) Discussion</span>
   <span class="subhead">Video Hub</span>
 </h1>
 
