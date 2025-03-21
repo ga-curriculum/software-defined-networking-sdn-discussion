@@ -11,8 +11,8 @@ Get ready to see how software-defined networking (SDN) is revolutionizing the wa
 
 | Lesson | Est. Delivery Time | Skills |
 | ------ |:------------------:| ------ |
-| [How Does SDN Make Life Easier?](./software-defined-networking/README.md) | 30 min | SDN overview and real-life scenarios. |
-| **Total content**                                                         | 30 min |                                       |
+| [How Does SDN Make Life Easier?](./how-does-sdn-make-life-easier/README.md) | 30 min | SDN overview and real-life scenarios. |
+| **Total content**                                                           | 30 min |                                       |
 
 ## References
 
@@ -26,8 +26,8 @@ Get ready to see how software-defined networking (SDN) is revolutionizing the wa
 
 ### Course landing pages
 
-- [ITB - IT Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/software-defined-networking/canvas-landing-pages/itb.html)
-- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/software-defined-networking/canvas-landing-pages/fallback.html)
+- [ITB - IT Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/software-defined-networking-sdn-discussion/canvas-landing-pages/itb.html)
+- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/software-defined-networking-sdn-discussion/canvas-landing-pages/fallback.html)
 
 ### Resources
 

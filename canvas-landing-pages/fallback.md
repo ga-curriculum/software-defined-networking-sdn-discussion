@@ -12,8 +12,8 @@ Get ready to see how software-defined networking (SDN) is revolutionizing the wa
 
 | Lesson | Est. Delivery Time | Skills |
 | ------ |:------------------:| ------ |
-| [How Does SDN Make Life Easier?](../software-defined-networking/README.md) | 30 min | SDN overview and real-life scenarios. |
-| **Total content**                                                          | 30 min |                                       |
+| [How Does SDN Make Life Easier?](../how-does-sdn-make-life-easier/README.md) | 30 min | SDN overview and real-life scenarios. |
+| **Total content**                                                            | 30 min |                                       |
 
 ## References
 
